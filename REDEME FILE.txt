@@ -1,0 +1,18 @@
+Task lists in issues, comments, and pull request descriptions are incredibly useful for project coordination and keeping track of important items. Starting today, we are adding read-only task lists to all Markdown documents in repositories and wikis. So now, when you write:
+
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+It will render like this, everywhere on GitHub:
+
+Solar System Exploration, 1950s â€“ 1960s
+
+Edit the document or wiki page and use the - [ ] and - [x] syntax to update your task list.
